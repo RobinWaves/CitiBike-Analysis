@@ -1,4 +1,5 @@
-# Citi Bike Analytics - View the Tableau Public workbook [here](https://public.tableau.com/app/profile/robin.christoffersen/viz/CitibikeAnalytics_16279562405600/CitiBikeStory?publish=yes)
+# Citi Bike Analytics
+## View the Tableau Public workbook [here](https://public.tableau.com/app/profile/robin.christoffersen/viz/CitibikeAnalytics_16279562405600/CitiBikeStory?publish=yes)
 ---
 An analysis was done on data from the largest bike sharing program in the United States.  The goal of this assigment was to find unexpected phenomena within a dataset.  Picking a relevent dataset was important and the last full year of data was chosen.  Dates range from December 2019 to December 2020.  The data selections can be found at [Citi Bike Data](https://www.citibikenyc.com/system-data).  Twelve CSV files were downloaded and then read using Pandas into dataframes.  They were then concatenated to preserve the data.  That dataframe was then output into a new CSV file named Citibike_2020.  
 
